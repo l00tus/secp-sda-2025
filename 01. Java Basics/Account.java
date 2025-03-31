@@ -42,5 +42,7 @@ public class Account {
         account1.deposit(1500);
         account1.displayInfo();
 
+        account2.withdraw(1250);
+        account2.displayInfo();
     }
 }
